@@ -9,4 +9,8 @@ without it.
 
 ## Run
 
-`node server`
+`yarn start`
+
+## Build Client Code
+
+`yarn build`
